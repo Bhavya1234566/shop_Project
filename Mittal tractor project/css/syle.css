@@ -1,0 +1,255 @@
+.logo{
+    margin-top: -12px;
+    max-width: 149px;
+}
+.logo-left{
+    padding-left: 43px;
+    word-spacing: 70px;
+    font-size: large;
+}
+
+.background{
+    background-image: url(../images/backgrund\ part.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.heading{
+    padding: 224px;
+    margin-left: 182px;
+    color: white;
+}
+.p{
+    margin: 41px;
+    text-align: center;
+    font-family: serif;
+}
+.search{
+    margin-left: 35px;
+    margin-top: -17px;
+    font-family: none;
+}
+.cart{
+    margin-left: 28px;
+    margin-top: -17px;
+}
+.nuts{
+    position: relative;
+    width: 345px;
+    height: auto;
+    overflow: hidden;
+    margin-left: 23px;
+}
+.nuts img{
+    width: 93%;
+    transition: all .3s ease;
+}
+.nuts img:hover{
+    transform: scale(1.2);
+}
+.nuts1{
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 48%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+.but{
+    margin-left: 645px;
+    padding-right: 30px;
+    padding-left: 26px;
+    padding-top: 14px;
+    padding-bottom: 18px;
+    border-radius: 45px;
+    background-color: gold;
+}
+.bolts{
+    
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 48%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+.button{
+    position: absolute;
+    margin-top: -61px;
+    margin-left: 105px;
+    padding: 7px;
+    padding-top: 11px;
+    font-size: 16px;
+    padding-bottom: 11px;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+}
+.button:hover::after {
+    content: ' →';
+}
+.Oilseal{
+    position: relative;
+    width: 254px;
+    height: 214px;
+    overflow: hidden;
+    margin-left: 29px;
+
+}
+.Oilseal img{
+    width: 100%;
+    transition: all .3s ease;
+}
+.Oilseal img:hover{
+    transform: scale(1.2);
+}
+.oil{
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+.Seal{
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+.button1{
+    position: absolute;
+    margin-top: -61px;
+    margin-left: 111px;
+    padding: 7px;
+    padding-top: 11px;
+    font-size: 16px;
+    padding-bottom: 11px;
+}
+.button1:hover{
+    color: white;
+    background-color: black;
+}
+.button1:hover::after {
+    content: ' →';
+}
+.toplinkpin{
+    position: relative;
+    width: 297px;
+    height: 215px;
+    overflow: hidden;
+    margin-left: 39px;
+
+}
+.toplinkpin img{
+    width: 100%;
+    transition: all .3s ease;
+}
+.toplinkpin img:hover{
+    transform: scale(1.2);
+}
+.top{
+    font-size: 35px;
+    font-weight: bold;
+    color: 	#808080;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.pin{
+    font-size: 35px;
+    font-weight: bold;
+    color: 	#808080;
+    position: absolute;
+    top: 49%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+}
+.button2{
+    position: absolute;
+    margin-top: -61px;
+    margin-left: 98px;
+    padding: 7px;
+    padding-top: 11px;
+    font-size: 16px;
+    padding-bottom: 11px;
+}
+.button2:hover{
+    color: white;
+    background-color: black;
+}
+.button2:hover::after {
+    content: ' →';
+}
+.hosepipe{
+    position: relative;
+    width: 302px;
+    height: 214px;
+    overflow: hidden;
+    margin-left: 36px;
+}
+.hosepipe img{
+    width: 100%;
+    transition: all .3s ease;
+}
+.hosepipe img:hover{
+    transform: scale(1.2);
+}
+.Hose{
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+.pipe{
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+.button3{
+    position: absolute;
+    margin-top: -61px;
+    margin-left: 63px;
+    padding: 7px;
+    padding-top: 11px;
+    font-size: 16px;
+    padding-bottom: 11px;
+}
+.button3:hover{
+    color: white;
+    background-color: black;
+}
+.button3:hover::after {
+    content: ' →';
+}
+.about{
+    margin-left: 25px;
+    padding-top: 54px;
+}
+.address{
+    margin-top: -249px;
+    margin-left: 297px;
+}
+.foot{
+    margin-top: 31px;
+    background: black;
+    color: white;
+    padding-bottom: 235px;
+}
